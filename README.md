@@ -2,7 +2,7 @@
 
 
 
-git clone 
+git clone https://github.com/ahmad-360/Port-Scanner.git
 
 cd port-scanner
 
